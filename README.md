@@ -138,8 +138,7 @@
 #### Collaboration
 - Jira, Mattermost
 - Gitlab, Sourcetree, GithubDesktop
-- [Notion](https://plaid-raja-512.notion.site/Put-your-hands-up-7c7767c9ba724182a6c1618d8536bd89)
-<br>
+- Notion
 
 
 
