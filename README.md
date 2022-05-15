@@ -1,6 +1,5 @@
 # <img src="https://i.imgur.com/JD6WL4Y.png" width="300px"/>
 ### 프로젝트 소개
-  * [북쪽행성 HomePage](https://k5a204.p.ssafy.io)
   * [YouTube](https://www.youtube.com/watch?v=hzazfNSwmiw)
   * **북쪽행성**은 온라인 발표환경에서 발표를 쉽게 할 수 있게 도와주는 서비스입니다. 
   * 청취자는 발표자의 비언어적 표현과 발표자료를 함께 볼 수 있어 정보를 더 효과적으로 전달받을 수 있습니다.
