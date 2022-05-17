@@ -141,10 +141,10 @@
 
 
 ### 시스템 아키텍쳐
-![](https://i.imgur.com/QChANZP.png)
+![System Architecture](https://imgur.com/BvygnnS.png)
 
 ### 데이터베이스
-![](https://i.imgur.com/fjsRpcf.png)
+![Database ERD](https://i.imgur.com/fjsRpcf.png)
 
 
 ### 핵심 라이브러리
